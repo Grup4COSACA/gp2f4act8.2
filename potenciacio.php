@@ -12,6 +12,6 @@
 			$resultat = $operacio->potencia($_GET["op1"],$_GET["op2"]);
 			echo "<p>El resultat és igual: $resultat</p>";	;			
 		?>
-		<a href="multiplicacio.html">Torna a la pàgina anterior</a>
+		<a href="potenciacio.html">Torna a la pàgina anterior</a>
 	</body>
 </html>
